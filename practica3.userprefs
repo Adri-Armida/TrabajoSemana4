@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\movimiento.cs">
+    <Files>
+      <File FileName="Assets\escenario.cs" Line="28" Column="56" />
+      <File FileName="..\semana4\Assets\Instanciar.cs" Line="1" Column="1" />
+      <File FileName="..\semana4\Assets\Fisica.cs" Line="1" Column="1" />
+      <File FileName="Assets\movimiento.cs" Line="81" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
